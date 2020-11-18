@@ -1,0 +1,17 @@
+{
+	"version": "1.0.23",
+	"bins": {
+		"windows": {
+			"url": "https://gethstore.blob.core.windows.net/builds/geth-windows-amd64-1.9.24-cc05b050.zip",
+			"sha256sum": "e41d6dd5a5c1aef6ba175903b23a0232f4c28229dd44417e6546ff9b4e126aa0"
+		},
+		"linux": {
+			"url": "https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.9.24-cc05b050.tar.gz",
+			"sha256sum": "4161773ebd48da01deac22c072d1f78cab99537fcdc7affb9800a8bfa7cfdf7e"
+		},
+		"darwin": {
+			"url": "https://gethstore.blob.core.windows.net/builds/geth-darwin-amd64-1.9.24-cc05b050.tar.gz",
+			"sha256sum": "16507cae1cee3840cdde637dbf3d57f2fad9aeb888aaf1681db6fb8bd0165401"
+		}
+	}
+}
