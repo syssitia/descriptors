@@ -1,5 +1,4 @@
 {
-	"version": "1.9.24",
 	"bins": {
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/windows/geth.exe",
