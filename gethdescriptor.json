@@ -2,15 +2,15 @@
 	"version": "1.9.24",
 	"bins": {
 		"windows": {
-			"url": "https://gethstore.blob.core.windows.net/builds/geth-windows-amd64-1.9.24-cc05b050.zip",
+			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/windows/geth.exe",
 			"sha256sum": "4463dca573286b6ef4a09d22dadcb126637d5eed5a14af9afcdce19727d5a814"
 		},
 		"linux": {
-			"url": "https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.9.24-cc05b050.tar.gz",
+			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/linux/geth",
 			"sha256sum": "4a3d6e4bd4432c1ce43d9873edd4de0a149a9ad3b628b6ca894db86f425d9d77"
 		},
 		"darwin": {
-			"url": "https://gethstore.blob.core.windows.net/builds/geth-darwin-amd64-1.9.24-cc05b050.tar.gz",
+			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/darwin/geth",
 			"sha256sum": "1a6055186b7290c0d48cebc794facead2c8e07e4ac5b9b145f21173a6223bb87"
 		}
 	}

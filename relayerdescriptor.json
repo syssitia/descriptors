@@ -2,16 +2,16 @@
 	"version": "1.0.23",
 	"bins": {
 		"windows": {
-			"url": "https://gethstore.blob.core.windows.net/builds/geth-windows-amd64-1.9.24-cc05b050.zip",
-			"sha256sum": "e41d6dd5a5c1aef6ba175903b23a0232f4c28229dd44417e6546ff9b4e126aa0"
+			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/relayer/windows/sysrelayer.exe",
+			"sha256sum": "bcd0fc8cddc8786416fa93f48357ca1ae00d40c2812c461560a3987d259acf4d"
 		},
 		"linux": {
-			"url": "https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.9.24-cc05b050.tar.gz",
-			"sha256sum": "4161773ebd48da01deac22c072d1f78cab99537fcdc7affb9800a8bfa7cfdf7e"
+			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/relayer/linux/sysrelayer",
+			"sha256sum": "e36c7a6d34086c112310fdcc683e824bfaf69c1b32982b717b29cb2ded7a6fed"
 		},
 		"darwin": {
-			"url": "https://gethstore.blob.core.windows.net/builds/geth-darwin-amd64-1.9.24-cc05b050.tar.gz",
-			"sha256sum": "16507cae1cee3840cdde637dbf3d57f2fad9aeb888aaf1681db6fb8bd0165401"
+			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/relayer/darwin/sysrelayer",
+			"sha256sum": "f97c890898db81d535bac0d19cbd7c6eb4a743b348a6d92a1ac52cc9abb9aa4b"
 		}
 	}
 }
