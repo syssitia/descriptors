@@ -2,15 +2,15 @@
 	"bins": {
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/windows/geth.exe",
-			"sha256sum": "4463dca573286b6ef4a09d22dadcb126637d5eed5a14af9afcdce19727d5a814"
+			"sha256sum": "aa2f7e0ff9cac137dec0619809cedb4592b94b15e23b804f69e0e510a085510d"
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/linux/geth",
-			"sha256sum": "4a3d6e4bd4432c1ce43d9873edd4de0a149a9ad3b628b6ca894db86f425d9d77"
+			"sha256sum": "4330cf5fa0d3d7886e8f22ac1717799a2b8335725af6e81bab31e399ecef73e2"
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/darwin/geth",
-			"sha256sum": "1a6055186b7290c0d48cebc794facead2c8e07e4ac5b9b145f21173a6223bb87"
+			"sha256sum": "912d856ceea9f826a7a92eb1b6d1d8b1ac97ab0af8ebe480ca5ddcadf1b2da62"
 		}
 	}
 }

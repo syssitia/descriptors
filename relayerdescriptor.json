@@ -2,15 +2,15 @@
 	"bins": {
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/relayer/windows/sysrelayer.exe",
-			"sha256sum": "bcd0fc8cddc8786416fa93f48357ca1ae00d40c2812c461560a3987d259acf4d"
+			"sha256sum": "dc6de50d61e6355c7cb8615a8e87f13cedbf9149a3b160d8929c540ba7c0328b"
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/relayer/linux/sysrelayer",
-			"sha256sum": "e36c7a6d34086c112310fdcc683e824bfaf69c1b32982b717b29cb2ded7a6fed"
+			"sha256sum": "8dfb6e8235ed7848d1d5cf187e634573144e5796c5fc182a613f7363570a7a7b"
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/relayer/darwin/sysrelayer",
-			"sha256sum": "f97c890898db81d535bac0d19cbd7c6eb4a743b348a6d92a1ac52cc9abb9aa4b"
+			"sha256sum": "d631fae14e85fb6e675176f670cace476b3eb85300d98058f777edeaeb5fca60"
 		}
 	}
 }
