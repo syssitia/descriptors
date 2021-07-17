@@ -8,13 +8,13 @@
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/linux/geth",
-			"sha256sum": "a0eb466f05449200b774228cacf83b93484f69e000c2aaef4f87b82305b8d922",
-			"signature": "IGdcj9xAcHBhMaTq850uvHk3y5332p/ZBBCz40KDwJ0RRzstX8NGEbacO/vDtdm6vxHEmfUVPsYvRCnbn6QzB+s="
+			"sha256sum": "2941102a4979fb0678c6f23df398725c04ab317bdbee816dd63e99e3b5300041",
+			"signature": "IDmCg/oPUVPP26Pt/v1VImVJerrdLNJdzPJ2Iyvy+m4dJIwGNiehuFOA+4vTms96x+XexiH8R6HEZH7Kh1VZocs="
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/darwin/geth",
-			"sha256sum": "09975dc26fcd3015afb0494b9883e4a7d3da604e950c0e95329f01b818dca2b6",
-			"signature": "IHbC/APnBaASxMOkY7KIeuKPr/I/aW7t29JXA32wyHU0YXeFfRhiJle+DtGOhNfrEBRVHDtMg4ORYOqqHLgTUPc="
+			"sha256sum": "7699441c4eba0f35748b725f169c42a2084ea8007cb9c88a31e06224b8ed552e",
+			"signature": "H5QrkoVnHyWBmvXwnY9sjBR6jgKcQyQCrYOU5PYRdsGxOmyZ+0u2f1bVo7tydQ/KG5tlzePWZn0ktkW1JIu8KfI="
 		}
 	}
 }
