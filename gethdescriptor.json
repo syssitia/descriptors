@@ -9,15 +9,15 @@
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/linux/geth",
-			"sha256sum": "a3c07dcc536b8332d5c00d4176a1eefcca0e2be7fc835e2957350edc79cc9f64",
+			"sha256sum": "a4a835f44c3562b39f0404e32f790b14a6bf4266afb345a0ecec18bdba132450",
 			"signatureM": "H41aSPg70B130PNgEe+lEsqkJ5+aSia3ZuOt2gM43Fk+b8/nNbCnJf2bN86980JwGFIb8j6+EsWfsmvNx4h4RKU=",
-			"signatureT": "H41aSPg70B130PNgEe+lEsqkJ5+aSia3ZuOt2gM43Fk+b8/nNbCnJf2bN86980JwGFIb8j6+EsWfsmvNx4h4RKU="
+			"signatureT": "H4VB0/yFNw2WDsejO+qhT1D0U1ZkKNX/YecQrlpESVqqS7Sv3AvhYRKwcjLoGPWgbVRQiRxdIZ2k6g+cyaSmA4s="
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/darwin/geth",
 			"sha256sum": "a3c07dcc536b8332d5c00d4176a1eefcca0e2be7fc835e2957350edc79cc9f64",
 			"signatureM": "HyObX2PaGWUZ4FDmv8l+mIaSoocHS4aUtdH181tkK7WDG+sTmeKHTetK25Ncd7Q+KTX6GOiNucjX+IuR8Xp32Ik=",
-			"signatureT": "HyObX2PaGWUZ4FDmv8l+mIaSoocHS4aUtdH181tkK7WDG+sTmeKHTetK25Ncd7Q+KTX6GOiNucjX+IuR8Xp32Ik="
+			"signatureT": "H7HnfksnGZy0Fd3xZEWYhWhxWmfwV4ZLL9LSCqa5yyp5W9jYfyqzduTbrGttxRX59CssiO5gqu3EzQ0KDESPpQY="
 		}
 	}
 }
