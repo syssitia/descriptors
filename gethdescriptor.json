@@ -15,9 +15,9 @@
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/darwin/geth",
-			"sha256sum": "d9f807d868bb45dad98229213001a9901cf7fcf3cb867c806e8f1cd00da1ac86",
+			"sha256sum": "a373b3d545aafa08b556ae258c6b55e1eb3742040815e780dd909777b56168f1",
 			"signatureM": "HyObX2PaGWUZ4FDmv8l+mIaSoocHS4aUtdH181tkK7WDG+sTmeKHTetK25Ncd7Q+KTX6GOiNucjX+IuR8Xp32Ik=",
-			"signatureT": "H6J3ZSDV5PslBcGcG5oUWOn8SmqcDlQ8hREVoPAIskafKd6C2VyOzFxDEwxWXlgeAqfeG7IeC1xBicAOtQeNgNg="
+			"signatureT": "H6NAhLGaKxsMVg3WcS7S5yQIyyv7Jzq8OG6z+plOR/40LemJPxwl2gXjhZwxIU+8IW5wo8d0RGi/l951OUt/Il4="
 		}
 	}
 }
