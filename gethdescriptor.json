@@ -9,9 +9,9 @@
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/linux/geth",
-			"sha256sum": "82b0c1bf98a63c95ddf84be5be8486108c270e9a7aa8903e7b8620ce48f5435b",
+			"sha256sum": "ae4cec5c124a1443bc9e165b44314ba034f889ef9d34526a03f38fb08ec913cc",
 			"signatureM": "H41aSPg70B130PNgEe+lEsqkJ5+aSia3ZuOt2gM43Fk+b8/nNbCnJf2bN86980JwGFIb8j6+EsWfsmvNx4h4RKU=",
-			"signatureT": "IFCYztfboEBKN25oDalx0ln1j7L9XipMmTo9pB9ksw+aAVgkAgcS084LMmW9BLauP4VoUScWF0VyAl5OGSfnThs="
+			"signatureT": "ID+JBZNsqHaSeLWi2vx90KVaoJpdwBO3c1DF7ehWatUNTPba3hdECXLD8iymNWu5uK9hFebd9nWeOs8oJjNjqHc="
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/darwin/geth",
