@@ -3,9 +3,9 @@
 	"bins": {
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/windows/geth.exe",
-			"sha256sum": "",
-			"signatureM": "",
-			"signatureT": ""
+			"sha256sum": "6e047944472ef4beb2325cd5813bfbbf99b4b5042d2e2820086b84b2a8aa2e81",
+			"signatureM": "H41aSPg70B130PNgEe+lEsqkJ5+aSia3ZuOt2gM43Fk+b8/nNbCnJf2bN86980JwGFIb8j6+EsWfsmvNx4h4RKU=",
+			"signatureT": "IHbOdMjxmSRfWCNOQLCjhsB5F4KoYV05knjL4OZnF0oDHEdS2CnE9XUWZ2PpTzwaLGjR32V1Fv9UaHAEp8TGDr4="
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/linux/geth",
