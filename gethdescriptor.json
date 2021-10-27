@@ -3,21 +3,21 @@
 	"bins": {
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/windows/geth.exe",
-			"sha256sum": "ee40e09ae5d7bf5997569072613771442fbe7180300c7e02ec22c72839240c8e",
+			"sha256sum": "7480b7b274392fae369b5636d6f1029726d50d43161499cbe3b5b45c43b28b0c",
 			"signatureM": "H41aSPg70B130PNgEe+lEsqkJ5+aSia3ZuOt2gM43Fk+b8/nNbCnJf2bN86980JwGFIb8j6+EsWfsmvNx4h4RKU=",
-			"signatureT": "H7uT4wBBsPI8u28oaR+YrN2s0oSsKPMrbEdQomgp3j3+XU63L0P/qUyx+v5ToQ4s8OZHOBEgroU1ESWRa0qYZj4="
+			"signatureT": "H7R9sJs003OI69KeB+MGDe9+PKpHLJ7APHGswzA0aXFVVoIQmB4ChSKCWC4yyZcafvP7u3QIEodFYnDxr4KuBzo="
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/linux/geth",
-			"sha256sum": "ff67e1e1c4023694b4089dc1a93ca40d7c6e79c47107a46d2f520aa3bdef7e07",
+			"sha256sum": "205420bc623ca43da23dde093a0e0ca8f8387b83e81667507ba598f9cda367f3",
 			"signatureM": "H41aSPg70B130PNgEe+lEsqkJ5+aSia3ZuOt2gM43Fk+b8/nNbCnJf2bN86980JwGFIb8j6+EsWfsmvNx4h4RKU=",
-			"signatureT": "IFRJifSB8Wg2RBHLryog7O8lK9Cm+Gebv9XIAP61ctglRBLy62gjn6sTb6RSnuPVREP7OpAAEJfhngc0WG5l0lY="
+			"signatureT": "IAqbKvP2LR0j5p6YjiTZc0pcCG3TNWy7we6jMWh7/XHYMrq/tz+E+YkjTjysfj0QBWrhj5NaGIHXSTEPtTlA4h0="
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/darwin/geth",
-			"sha256sum": "ede294db02d4737989f4a8d3bef0f18ffcbe1cafc7a197275514a66b236b4e7a",
+			"sha256sum": "a29880cb71ca99b8b3efcec5d73b9fa57404d38222b4e73fc7daa86262a71657",
 			"signatureM": "HyObX2PaGWUZ4FDmv8l+mIaSoocHS4aUtdH181tkK7WDG+sTmeKHTetK25Ncd7Q+KTX6GOiNucjX+IuR8Xp32Ik=",
-			"signatureT": "IMRRnocItTvQPqj+hSTSyEh99TyzasYS9oJBv01BEI3dM9bUeCR7S+uMdrCGsThQeZILyoHSfESpu4ze+9TZZiU="
+			"signatureT": "IBLWS2zJwLwCRHXKqyZzjpAWCHf43ov0hDd+f1CTpBeMG8SeBpXDXBeGVnNYc1CeUBIRipz7UUGkk1squ+e00Lo="
 		}
 	}
 }
