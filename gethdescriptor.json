@@ -3,21 +3,21 @@
 	"bins": {
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/windows/geth.exe",
-			"sha256sum": "0a29451b2749366475b03588a542478ffbb5b0b8a6e5c9c4f0c7ed7f7ba1f4a7",
-			"signatureM": "IBUVgouIndeNt6/VlfUyixr4Ave1m9ETv5KTZUvQhXhJLv5nywZ3Hf9yZBcNWhj5+0pO5xvRzMUJ16Mge1g3D2s=",
-			"signatureT": "IBTx4op+oj8ugc/a+VexyRAW18rnPb9b6L0dXhxL5JlkNm5gDRZoFED4q0IZLhFgWnNA4N8CLEXhxWMCu3stdQU="
+			"sha256sum": "2f6ebe7f4bbb3c5917f25161bb255fef82f9636698eb1e93adb694d2df50333e",
+			"signatureM": "IKgWso9TCvYefnmw208PaFG0ZkRaYZNrI048lDwwsvjmTo80zvah1R8id0IFmwzWCUdFCYKg5Ejjd5Mupju1uqI==",
+			"signatureT": "HwroA375Z8KYoN4p2W95NwEJAHcc80Qx9sKbr1LecXZJMk+4rahZL0jcRPqHqOkmzpcbeWnx07ptmBml16xLTvY="
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/linux/geth",
-			"sha256sum": "237f54abe51cafa563f2748bcffd01bccec38046186fb76c6ccee25a9eefa64b",
-			"signatureM": "IAWlUKHVy/XaSkkFtU6o2QxxHqilNTPmg93TCn6b6dgXQxC4xR2aMWagF020AAFNsbYK7IsX2VC9Y4GpnYOXjMs=",
-			"signatureT": "IFSzN0OgxWDUaHdWCtqaInLlIj2W3WueYCJ25pc8pChAKRvL2qQ7x5spzZBdPj/+RGSG9tp7irB+VtandHqH8JE="
+			"sha256sum": "3ec0cf80b9fdfbdef4fd1c2c19dea2dd0c1ba135cf2b58b997874a5f41755e35",
+			"signatureM": "IEGHu1All2rFiXggbwWrtN9eUgXjB+CmMnHzm+6AwaQjV6oFP4074qwpmryOsuvxUybaXtwqsOkh0SWiDhgdTlk=",
+			"signatureT": "H/L3+8UbVCropueEObUkiwMw3l9Q0ohF8MVN+3Dec95RS9jyQw130laukaTFbqW9FSmgsQgE9QehRZFbfGfZO6E="
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/darwin/geth",
-			"sha256sum": "2c125562d340ddf6d81664a4ace959d552eab7a6c8748367f12a82bf4910a29c",
-			"signatureM": "H+F3+w6X9eN4F3XX7zEhpfHwUe1McOblGs43qwCUNDFuABwlouco4kiqpJgalISTTPxS5irrchgO2Mkcl3/KDVI=",
-			"signatureT": "H1xXgPrpzksUlmKkxayp5v5+5xPJUwYRrULtaGU1gbCJeVMgX0U71iiyK4AdpdUrtAqPWgp8Zs/8Goc44NNrwb8="
+			"sha256sum": "08fe1e5b0aceb6910ec546d44c8fb0838883c38fdea8b7158f07cb56e21ed881",
+			"signatureM": "H7tpj6bV9+fNU8efj/4mtRzSokOuyB3/Zza+7IwbtRqDDuQqWxkzhNOh5k89W7PvmYEV5cVvXhSpFAl+uEkja5Y=",
+			"signatureT": "H2scpUTSTe1EdqdB9FTVqBNPrThpzYrVJzwd0aZb3+xKe9hHgj7tDbpcAj1g45O3NnEUwcGfxEgTn/pSdyob4Og="
 		}
 	}
 }
