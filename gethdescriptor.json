@@ -1,23 +1,23 @@
 {
-	"version": "4.3.0",
+	"version": "4.3.0r",
 	"bins": {
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/windows/geth.exe",
-			"sha256sum": "2f6ebe7f4bbb3c5917f25161bb255fef82f9636698eb1e93adb694d2df50333e",
-			"signatureM": "IKgWso9TCvYefnmw208PaFG0ZkRaYZNrI048lDwwsvjmTo80zvah1R8id0IFmwzWCUdFCYKg5Ejjd5Mupju1uqI==",
-			"signatureT": "HwroA375Z8KYoN4p2W95NwEJAHcc80Qx9sKbr1LecXZJMk+4rahZL0jcRPqHqOkmzpcbeWnx07ptmBml16xLTvY="
+			"sha256sum": "4769ab42cbcf8e89073d7a2b47b85ab5653c05dd5e2b540fef01b531c9ae1def",
+			"signatureM": "Hz4HxplynPymVTClPyoNi4HRqlM9grne4YeznR3Fg9i7dMDdTG5yGZ/CAhePxWaQQN4jNVcrx8+kOsFy6YY6yuk=",
+			"signatureT": "H1icZzO9BHZPdiq8hDEnMQiZSn0Tv9qgi3RDfYPn9H85eZ5g1WQ5t1viH+zj4Ssy7K8oEHWPyiQS4jI7fqYfD78="
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/linux/geth",
-			"sha256sum": "3ec0cf80b9fdfbdef4fd1c2c19dea2dd0c1ba135cf2b58b997874a5f41755e35",
-			"signatureM": "IEGHu1All2rFiXggbwWrtN9eUgXjB+CmMnHzm+6AwaQjV6oFP4074qwpmryOsuvxUybaXtwqsOkh0SWiDhgdTlk=",
-			"signatureT": "H/L3+8UbVCropueEObUkiwMw3l9Q0ohF8MVN+3Dec95RS9jyQw130laukaTFbqW9FSmgsQgE9QehRZFbfGfZO6E="
+			"sha256sum": "769831bc789a7bb738cf9763afca6e00ed426e118bd3a9be31967459eb4db5cc",
+			"signatureM": "Hxln1fme4No5a+P6uRswV/qq4nwjB8wmbKwU4AnxOWlWK0JzaRg71WixqfhZrJDPpBkbOTDlw91awmpoMJrS3fs=",
+			"signatureT": "H/WS6t2ckdTIJZxjX9kCk0ZL02dSCfjObZDxofpWuWFFUh6RMM7O7cmds/8RhiaFnwbySjqxCO7vzgF89IHatWo="
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/darwin/geth",
-			"sha256sum": "08fe1e5b0aceb6910ec546d44c8fb0838883c38fdea8b7158f07cb56e21ed881",
-			"signatureM": "H7tpj6bV9+fNU8efj/4mtRzSokOuyB3/Zza+7IwbtRqDDuQqWxkzhNOh5k89W7PvmYEV5cVvXhSpFAl+uEkja5Y=",
-			"signatureT": "H2scpUTSTe1EdqdB9FTVqBNPrThpzYrVJzwd0aZb3+xKe9hHgj7tDbpcAj1g45O3NnEUwcGfxEgTn/pSdyob4Og="
+			"sha256sum": "407b6ae97fb532e2d1df9424eba36ba1fc947223ca9d81dd43f7457dccdcb663",
+			"signatureM": "H01re6KVOZ2NmJEP1CAPOqzLdvAsqdROYxWgRh0irQsRaslRgJsgKtvHi26WTOzOIlnrfnR/+kemxlYw0iwIg0Y=",
+			"signatureT": "IMWJLgnQgcyuJbJy6SzRuExFqAvweQXL3BOzl7AKNS5tS6C5HpAds1v8rPiWfsnurt3ty1csNoyK4UtqtEPLr7U="
 		}
 	}
 }
