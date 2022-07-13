@@ -1,5 +1,5 @@
 {
-	"version": "4.4.0a",
+	"version": "4.4.0rc1",
 	"bins": {
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/windows/geth.exe",
