@@ -4,20 +4,17 @@
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/windows/geth.exe",
 			"sha256sum": "4769ab42cbcf8e89073d7a2b47b85ab5653c05dd5e2b540fef01b531c9ae1def",
-			"signatureM": "Hz4HxplynPymVTClPyoNi4HRqlM9grne4YeznR3Fg9i7dMDdTG5yGZ/CAhePxWaQQN4jNVcrx8+kOsFy6YY6yuk=",
-			"signatureT": "H1icZzO9BHZPdiq8hDEnMQiZSn0Tv9qgi3RDfYPn9H85eZ5g1WQ5t1viH+zj4Ssy7K8oEHWPyiQS4jI7fqYfD78="
+			"signature": "H1icZzO9BHZPdiq8hDEnMQiZSn0Tv9qgi3RDfYPn9H85eZ5g1WQ5t1viH+zj4Ssy7K8oEHWPyiQS4jI7fqYfD78="
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/linux/geth",
 			"sha256sum": "835fe468676c5757fb1bd25db51680c503561b98ef45abf335df75460794656b",
-			"signatureM": "Hxln1fme4No5a+P6uRswV/qq4nwjB8wmbKwU4AnxOWlWK0JzaRg71WixqfhZrJDPpBkbOTDlw91awmpoMJrS3fs=",
-			"signatureT": "IGNYb1jcTsHin3+NS4YvAxZ3l/Ha3NPlqIJEwsMB+GgvM4hUlOv5XvOR8a2KT/mSpLBclZ7y+5sBEHr6lmCbzzE="
+			"signature": "Hxln1fme4No5a+P6uRswV/qq4nwjB8wmbKwU4AnxOWlWK0JzaRg71WixqfhZrJDPpBkbOTDlw91awmpoMJrS3fs=",
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/darwin/geth",
 			"sha256sum": "5ecf8befb5f05cd11ec5701628db905c88059baee975a0e17c34bd434838b919",
-			"signatureM": "H01re6KVOZ2NmJEP1CAPOqzLdvAsqdROYxWgRh0irQsRaslRgJsgKtvHi26WTOzOIlnrfnR/+kemxlYw0iwIg0Y=",
-			"signatureT": "H2K7l6nRZcZO1Y519gJAnjTcCJR2BGp/YIA2dMjtOcnYUyr4U5yd7Q3ESntqfGV/UlNm1HtCaqlAKpILq/PKQVE="
+			"signature": "H01re6KVOZ2NmJEP1CAPOqzLdvAsqdROYxWgRh0irQsRaslRgJsgKtvHi26WTOzOIlnrfnR/+kemxlYw0iwIg0Y=",
 		}
 	}
 }
