@@ -3,18 +3,18 @@
 	"bins": {
 		"windows": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/windows/geth.exe",
-			"sha256sum": "4769ab42cbcf8e89073d7a2b47b85ab5653c05dd5e2b540fef01b531c9ae1def",
-			"signature": "H1icZzO9BHZPdiq8hDEnMQiZSn0Tv9qgi3RDfYPn9H85eZ5g1WQ5t1viH+zj4Ssy7K8oEHWPyiQS4jI7fqYfD78="
+			"sha256sum": "bcd465acf66c42613bdeca0688ad78427b9a0efc8114412610810ba57f66ca1a",
+			"signature": "Hxwe0eE5JIBWJE9wSrIw4op6scRn87Gu4kSAYYr8DvSuOOigD5pTpQBZBuIHZe0oN5D0KEHUo/xF8Hp4VBL2+Bs="
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/linux/geth",
-			"sha256sum": "835fe468676c5757fb1bd25db51680c503561b98ef45abf335df75460794656b",
-			"signature": "Hxln1fme4No5a+P6uRswV/qq4nwjB8wmbKwU4AnxOWlWK0JzaRg71WixqfhZrJDPpBkbOTDlw91awmpoMJrS3fs="
+			"sha256sum": "c5e41c630268f5bd2294b8b7dcf255192e69f5b5c25a0eb462916a1460ee42d7",
+			"signature": "IOAEolapmFSsAJAxs7Vl/D+Y9VeBRbZAZQRccSIOU8HibF79nOxrcwONNU2LR9g8RsL/iz2HwKSP9sO3ELMZkxg="
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/darwin/geth",
-			"sha256sum": "5ecf8befb5f05cd11ec5701628db905c88059baee975a0e17c34bd434838b919",
-			"signature": "H01re6KVOZ2NmJEP1CAPOqzLdvAsqdROYxWgRh0irQsRaslRgJsgKtvHi26WTOzOIlnrfnR/+kemxlYw0iwIg0Y="
+			"sha256sum": "f4a797a4298f976cb92cba55482048f14abe5dbc5ebf45fa934207ba99525245",
+			"signature": "H1cWIbpChQZOnoT7fIL0r/y2Pc5whbBlX0bPJFObV0TNAiqHvFY6RUeVTGZibsKLkebh3G7oDO+9UEtB3a0Whrk="
 		}
 	}
 }
