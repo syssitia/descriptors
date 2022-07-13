@@ -9,12 +9,12 @@
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/linux/geth",
 			"sha256sum": "835fe468676c5757fb1bd25db51680c503561b98ef45abf335df75460794656b",
-			"signature": "Hxln1fme4No5a+P6uRswV/qq4nwjB8wmbKwU4AnxOWlWK0JzaRg71WixqfhZrJDPpBkbOTDlw91awmpoMJrS3fs=",
+			"signature": "Hxln1fme4No5a+P6uRswV/qq4nwjB8wmbKwU4AnxOWlWK0JzaRg71WixqfhZrJDPpBkbOTDlw91awmpoMJrS3fs="
 		},
 		"darwin": {
 			"url": "https://raw.githubusercontent.com/syscoin/descriptors/testnet/bins/geth/darwin/geth",
 			"sha256sum": "5ecf8befb5f05cd11ec5701628db905c88059baee975a0e17c34bd434838b919",
-			"signature": "H01re6KVOZ2NmJEP1CAPOqzLdvAsqdROYxWgRh0irQsRaslRgJsgKtvHi26WTOzOIlnrfnR/+kemxlYw0iwIg0Y=",
+			"signature": "H01re6KVOZ2NmJEP1CAPOqzLdvAsqdROYxWgRh0irQsRaslRgJsgKtvHi26WTOzOIlnrfnR/+kemxlYw0iwIg0Y="
 		}
 	}
 }
