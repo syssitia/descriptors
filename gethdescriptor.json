@@ -2,19 +2,19 @@
 	"version": "4.3.0r",
 	"bins": {
 		"windows": {
-			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/windows/geth.exe",
+			"url": "https://raw.githubusercontent.com/syssitia/descriptors/master/bins/geth/windows/geth.exe",
 			"sha256sum": "4769ab42cbcf8e89073d7a2b47b85ab5653c05dd5e2b540fef01b531c9ae1def",
 			"signatureM": "Hz4HxplynPymVTClPyoNi4HRqlM9grne4YeznR3Fg9i7dMDdTG5yGZ/CAhePxWaQQN4jNVcrx8+kOsFy6YY6yuk=",
 			"signatureT": "H1icZzO9BHZPdiq8hDEnMQiZSn0Tv9qgi3RDfYPn9H85eZ5g1WQ5t1viH+zj4Ssy7K8oEHWPyiQS4jI7fqYfD78="
 		},
 		"linux": {
-			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/linux/geth",
+			"url": "https://raw.githubusercontent.com/syssitia/descriptors/master/bins/geth/linux/geth",
 			"sha256sum": "769831bc789a7bb738cf9763afca6e00ed426e118bd3a9be31967459eb4db5cc",
 			"signatureM": "Hxln1fme4No5a+P6uRswV/qq4nwjB8wmbKwU4AnxOWlWK0JzaRg71WixqfhZrJDPpBkbOTDlw91awmpoMJrS3fs=",
 			"signatureT": "H/WS6t2ckdTIJZxjX9kCk0ZL02dSCfjObZDxofpWuWFFUh6RMM7O7cmds/8RhiaFnwbySjqxCO7vzgF89IHatWo="
 		},
 		"darwin": {
-			"url": "https://raw.githubusercontent.com/syscoin/descriptors/master/bins/geth/darwin/geth",
+			"url": "https://raw.githubusercontent.com/syssitia/descriptors/master/bins/geth/darwin/geth",
 			"sha256sum": "407b6ae97fb532e2d1df9424eba36ba1fc947223ca9d81dd43f7457dccdcb663",
 			"signatureM": "H01re6KVOZ2NmJEP1CAPOqzLdvAsqdROYxWgRh0irQsRaslRgJsgKtvHi26WTOzOIlnrfnR/+kemxlYw0iwIg0Y=",
 			"signatureT": "IMWJLgnQgcyuJbJy6SzRuExFqAvweQXL3BOzl7AKNS5tS6C5HpAds1v8rPiWfsnurt3ty1csNoyK4UtqtEPLr7U="
