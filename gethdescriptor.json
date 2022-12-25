@@ -9,7 +9,7 @@
 		},
 		"linux": {
 			"url": "https://raw.githubusercontent.com/syssitia/descriptors/master/bins/geth/linux/geth",
-			"sha256sum": "5b28cfa3a3ed4d9fe7be576f77733b0b684c4193104518cb523a569dc15ec0ca",
+			"sha256sum": "913309648056c8ae7c139190b7ea2614104f768bbffc4d85210e9363bfafdbfc",
 			"signatureM": "Hxln1fme4No5a+P6uRswV/qq4nwjB8wmbKwU4AnxOWlWK0JzaRg71WixqfhZrJDPpBkbOTDlw91awmpoMJrS3fs=",
 			"signatureT": "H/WS6t2ckdTIJZxjX9kCk0ZL02dSCfjObZDxofpWuWFFUh6RMM7O7cmds/8RhiaFnwbySjqxCO7vzgF89IHatWo="
 		},
